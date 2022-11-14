@@ -1,5 +1,5 @@
 body{
-    background-color: black !important;
+    background-color: black !important; /* Overwrite to all rest of styles https://www.w3schools.com/css/css_important.asp */
 }
 
 p,span,h1,h2,h3,h4,h5,a{
